@@ -1,0 +1,22 @@
+spring:
+  h2:
+    console:
+      path: /h2
+      enabled: true
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+  freemarker:
+    template-loader-path: classpath:/templates
+    suffix: .ftl
+logging:
+  level:
+    org:
+      springframework:
+        security: INFO
+blablacargo:
+  roles:
+    default: ROLE_USER
+  security:
+    password:
+      encoder: noop

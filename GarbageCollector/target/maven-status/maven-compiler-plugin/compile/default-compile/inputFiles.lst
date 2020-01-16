@@ -1,0 +1,16 @@
+/home/disperse/Документы/ИТСИ-18-1м/Клюев А.В./Курсовая/GarbageCollector/src/main/java/com/magister/garbagecollector/entities/User.java
+/home/disperse/Документы/ИТСИ-18-1м/Клюев А.В./Курсовая/GarbageCollector/src/main/java/com/magister/garbagecollector/configuration/SecurityConfiguration.java
+/home/disperse/Документы/ИТСИ-18-1м/Клюев А.В./Курсовая/GarbageCollector/src/main/java/com/magister/garbagecollector/controllers/GarbageCollectorRestApiController.java
+/home/disperse/Документы/ИТСИ-18-1м/Клюев А.В./Курсовая/GarbageCollector/src/main/java/com/magister/garbagecollector/entities/jpa/ApplicationRepository.java
+/home/disperse/Документы/ИТСИ-18-1м/Клюев А.В./Курсовая/GarbageCollector/src/main/java/com/magister/garbagecollector/entities/Status.java
+/home/disperse/Документы/ИТСИ-18-1м/Клюев А.В./Курсовая/GarbageCollector/src/main/java/com/magister/garbagecollector/entities/Application.java
+/home/disperse/Документы/ИТСИ-18-1м/Клюев А.В./Курсовая/GarbageCollector/src/main/java/com/magister/garbagecollector/exceptions/UserNotFoundException.java
+/home/disperse/Документы/ИТСИ-18-1м/Клюев А.В./Курсовая/GarbageCollector/src/main/java/com/magister/garbagecollector/configuration/InitialDataConfiguration.java
+/home/disperse/Документы/ИТСИ-18-1м/Клюев А.В./Курсовая/GarbageCollector/src/main/java/com/magister/garbagecollector/GarbageCollectorApplication.java
+/home/disperse/Документы/ИТСИ-18-1м/Клюев А.В./Курсовая/GarbageCollector/src/main/java/com/magister/garbagecollector/entities/jpa/RoleKey.java
+/home/disperse/Документы/ИТСИ-18-1м/Клюев А.В./Курсовая/GarbageCollector/src/main/java/com/magister/garbagecollector/controllers/GarbageCollectorStaticController.java
+/home/disperse/Документы/ИТСИ-18-1м/Клюев А.В./Курсовая/GarbageCollector/src/main/java/com/magister/garbagecollector/exceptions/ApplicationNotFoundException.java
+/home/disperse/Документы/ИТСИ-18-1м/Клюев А.В./Курсовая/GarbageCollector/src/main/java/com/magister/garbagecollector/entities/jpa/UserRepository.java
+/home/disperse/Документы/ИТСИ-18-1м/Клюев А.В./Курсовая/GarbageCollector/src/main/java/com/magister/garbagecollector/entities/jpa/RoleRepository.java
+/home/disperse/Документы/ИТСИ-18-1м/Клюев А.В./Курсовая/GarbageCollector/src/main/java/com/magister/garbagecollector/entities/Role.java
+/home/disperse/Документы/ИТСИ-18-1м/Клюев А.В./Курсовая/GarbageCollector/src/main/java/com/magister/garbagecollector/services/UserService.java

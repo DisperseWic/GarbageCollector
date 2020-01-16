@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ffaa233-ee84-460e-af08-dfa91d9467f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WIR0clmGHrbS5f2dowmlvuKtJV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GarbageCollectorApplication">
+    <configuration name="BlaBlaCargoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="GarbageCollector" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.pstu.itse17.courses.blablacargo.BlaBlaCargoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GarbageCollectorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="GarbageCollector" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.magister.garbagecollector.GarbageCollectorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ffaa233-ee84-460e-af08-dfa91d9467f5" name="Default Changelist" comment="" />
+      <created>1578834900651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578834900651</updated>
+      <workItem from="1578834907593" duration="5677000" />
+      <workItem from="1578840876819" duration="983000" />
+      <workItem from="1578898784191" duration="8302000" />
+      <workItem from="1578907133898" duration="1233000" />
+      <workItem from="1578931451361" duration="65000" />
+      <workItem from="1578931749130" duration="5000" />
+      <workItem from="1578931980169" duration="7000" />
+      <workItem from="1579105195377" duration="837000" />
+      <workItem from="1579170190957" duration="2087000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="27" width="482" height="676" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578841002244">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="431" y="27" width="482" height="676" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1366.676@0.27.1366.676" timestamp="1578841002244" />
+    <state width="1320" height="149" key="GridCell.Tab.0.bottom" timestamp="1579172860828">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="149" key="GridCell.Tab.0.bottom/0.27.1366.676@0.27.1366.676" timestamp="1579172860828" />
+    <state width="1320" height="149" key="GridCell.Tab.0.center" timestamp="1579172860826">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="149" key="GridCell.Tab.0.center/0.27.1366.676@0.27.1366.676" timestamp="1579172860826" />
+    <state width="1320" height="149" key="GridCell.Tab.0.left" timestamp="1579172860826">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="149" key="GridCell.Tab.0.left/0.27.1366.676@0.27.1366.676" timestamp="1579172860826" />
+    <state width="1320" height="149" key="GridCell.Tab.0.right" timestamp="1579172860828">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="149" key="GridCell.Tab.0.right/0.27.1366.676@0.27.1366.676" timestamp="1579172860828" />
+    <state width="1320" height="149" key="GridCell.Tab.1.bottom" timestamp="1579172860831">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="149" key="GridCell.Tab.1.bottom/0.27.1366.676@0.27.1366.676" timestamp="1579172860831" />
+    <state width="1320" height="149" key="GridCell.Tab.1.center" timestamp="1579172860829">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="149" key="GridCell.Tab.1.center/0.27.1366.676@0.27.1366.676" timestamp="1579172860829" />
+    <state width="1320" height="149" key="GridCell.Tab.1.left" timestamp="1579172860829">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="149" key="GridCell.Tab.1.left/0.27.1366.676@0.27.1366.676" timestamp="1579172860829" />
+    <state width="1320" height="149" key="GridCell.Tab.1.right" timestamp="1579172860829">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="149" key="GridCell.Tab.1.right/0.27.1366.676@0.27.1366.676" timestamp="1579172860829" />
+    <state x="339" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1579170194482">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="339" y="191" key="com.intellij.ide.util.TipDialog/0.27.1366.676@0.27.1366.676" timestamp="1579170194482" />
+    <state x="328" y="27" width="710" height="676" key="find.popup" timestamp="1578841346180">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="328" y="27" width="710" height="676" key="find.popup/0.27.1366.676@0.27.1366.676" timestamp="1578841346180" />
+  </component>
+</project>
